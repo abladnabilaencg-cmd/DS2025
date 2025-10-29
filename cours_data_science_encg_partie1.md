@@ -1,7 +1,12 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
+<img src="wha.jpeg" style="height:464px;margin-right:432px"/>
+
+
 
 # Nabila ABLAD
+
+
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
