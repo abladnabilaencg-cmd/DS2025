@@ -1,4 +1,14 @@
 # 📊 Compte rendu d'analyse : Régression linéaire & Régression logistique
+## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
+<img src="Screenshot_2024306-2024_WhatsApp (1).jpeg" style="height:464px;margin-right:432px"/>
+
+
+
+
+
+
+
+# Nabila ABLAD
 
 ## 1️⃣ Introduction
 
